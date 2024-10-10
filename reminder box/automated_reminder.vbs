@@ -1,6 +1,6 @@
 Sub addScheduledTask()
     Dim strFileName, strTaskName, objShell, objFSO
-    strFileName = "C:\Users\sorin\OneDrive\Desktop\code girl summer\reminder box\reminder.vbs"
+    strFileName = "path\to\reminder.vbs"
     strTaskName = "ReminderTask"
 
     ' Check if reminder.vbs exists
